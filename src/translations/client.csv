@@ -205,7 +205,7 @@ constants.collectedBy,The collected by sec text,Collected by,Collecté par
 constants.collectorDetails,Label for collector details,Collector Details,Information  du collecteur
 constants.comment,Label for rejection comment,Comment,Commentaire
 constants.config,,Configuration,Configuration
-constants.countryName,Name of the OpenCRVS implementation country,Farajaland,Farajaland
+constants.countryName,Name of the OpenCRVS implementation country,Haiti,Haïti
 constants.customTimePeriod,Label for Custom time period,Custom time period,Période personnalisée
 constants.dataEntryClerk,The description for DATA_ENTRY_CLERK type,Data entry clerk,Commis à la saisie des données
 constants.dateOfDeclaration,Date of declaration label,Date of declaration,Date de la déclaration
@@ -1766,7 +1766,7 @@ review.form.section.review.title,Form section title for Review,Review,Réviser
 review.formData.header,,"{isDraft, select, true {Check responses with the informant before sending for review} other {Review the answers with the supporting documents}}","{isDraft, select, true {Vérifiez les réponses auprès de l'informateur avant de les envoyer pour examen.} other {Examinez les réponses avec les documents justificatifs}}"
 review.header.subject.subjectWitName,Header subject that shows which declaration type to review with informant name,"{eventType, select, birth {Birth} death {Death} other {Marriage} } declaration for {name}","{eventType, select, birth {Naissance} death {Décès} other {Mariage}} declaration for {name}"
 review.header.subject.subjectWithoutName,Header subject that shows which declaration type to review,"{eventType, select, birth {Birth} death {Death} other {Marriage}} Declaration","{eventType, select, birth {Naissance} death {Décès} other {Marriage}} Déclaration"
-review.header.title.govtName,Header title that shows bgd govt name,Republic of Farajaland,République du Farajaland
+review.header.title.govtName,Header title that shows bgd govt name,Republic of Haiti,République d'Haiti
 review.inputs.additionalComments,Label for input Additional comments,Comments,Des commentaires supplémentaires ?
 review.inputs.brideSignature,Label for informants signature input,Signature of Bride,Signature de la mariée
 review.inputs.groomSignature,Label for informants signature input,Signature of Groom,Signature du marié
